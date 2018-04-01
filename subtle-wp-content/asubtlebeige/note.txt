@@ -1,0 +1,6 @@
+Page and Post
+
+#Single.php
+#page.php
+
+Tutorial - 5

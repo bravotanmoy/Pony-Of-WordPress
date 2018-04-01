@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Boom Music Child Theme
+ Description:  hild theme for displaying custom post types and taxonomies
+ Author:       Your Name
+ Author URI:   http://yoursite.com
+ Template:     boommusic
+ Version:      1.0.0
+*/
+
+@import url("../boommusic/css/style.css");
+
+.taxonomies {
+    font-family: 'Lato';
+    font-size: 90%;
+    margin-bottom: 2rem;
+}
+
+.taxonomies a {
+    font-weight: 600;
+}
+        
+ 

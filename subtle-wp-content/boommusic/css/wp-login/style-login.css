@@ -1,0 +1,40 @@
+body.login{
+    background-color: transparent;
+    background-image: url('tanmoy-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #000
+}
+body.login div#login {background-color: rgba(255,0,0,0.15)}
+body.login div#login h1 {}
+body.login div#login h1 a {margin-bottom: 0;}
+body.login div#login form#loginform {
+    background-color: transparent;
+    margin-top: 0
+}
+body.login div#login form#loginform p {}
+body.login div#login form#loginform p label {color: #000}
+body.login div#login form#loginform input {
+    background-color: transparent;
+}
+body.login div#login form#loginform input#user_login {
+    color: #00A8E7;
+    border: solid 1px #00CC00;
+}
+body.login div#login form#loginform input#user_pass {
+    border: solid 1px #00CC00;
+    color: #00A8E7;
+}
+body.login div#login form#loginform p.forgetmenot {}
+body.login div#login form#loginform p.forgetmenot input#rememberme {border: solid 1px #00CC00;}
+body.login div#login form#loginform p.submit {}
+body.login div#login form#loginform p.submit input#wp-submit{background-color: #32A563}
+body.login div#login form#loginform p.submit input#wp-submit:hover{
+    background-color: #000;
+    color: #fff;
+}
+body.login div#login p#nav {}
+body.login div#login p#nav a {color: #000}
+body.login div#login p#backtoblog {}
+body.login div#login p#backtoblog a {color: #000}

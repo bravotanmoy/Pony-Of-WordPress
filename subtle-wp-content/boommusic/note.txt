@@ -1,0 +1,12 @@
+# Post
+# Page
+# single.php
+# Post Comment
+# Templates
+# Custom Post Type
+# WP_Query
+# Side Bar Register
+# Search Form
+# Pagination
+# 404 Page
+# Create user without dashboard Access

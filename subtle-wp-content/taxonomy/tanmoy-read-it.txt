@@ -1,0 +1,4 @@
+Open functions.php file and then 
+Search this 
+
+// Tanmoy Code

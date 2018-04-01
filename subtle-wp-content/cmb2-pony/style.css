@@ -1,0 +1,63 @@
+/*
+Theme Name: CMB2 Pony
+Description: (c) 2014 Divine Project
+Author: Tanmoy Biswas
+Author URI: https://www.facebook.com/bravotanmoy
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: CMB2, framework, owl carousel,carousel, 
+*/
+*{margin: 0;padding: 0;transition: all .3s ease-in-out 0s;}
+
+
+/* Owl Carousel Defined Class */
+
+.owl-carousel{
+    width: 330px;
+    height: 370px;
+    margin: 0 auto
+}
+
+p{color: #900C3F}
+span{
+    display: inline-block;
+    margin-bottom: 13px;
+    color: #58D68D;
+}
+strong{display: inline;font-weight: 300}
+
+img{height: auto;}
+
+p,
+span,
+strong{text-align: center;}
+
+
+ ul{
+    list-style: none;
+    width: 135px;
+    margin: 15px auto 0;
+}
+ li{
+    float: left;
+    margin-right: 2px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border: solid 1px #000;
+    border-radius: 50%;
+    text-align: center
+}
+
+li:hover{background-color: rgba(0,0,0,0.17)}
+
+a{
+    font-size: 22px;
+    color: #000;
+}
+
+
+/*.owl-nav .disabled{display: none !important;}*/
+
+

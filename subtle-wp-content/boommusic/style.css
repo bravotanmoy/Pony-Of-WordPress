@@ -1,0 +1,22 @@
+/*
+Theme Name: Boom Music
+Theme URI: https://wordpress.org/themes/twentyfourteen/
+Author: Tanmoy Biswas
+Author URI: https://fabebook.com/bravotanmoy
+Version: 1.0
+License: MIT
+Tags: Tanmoy Biswas, Programming, Wordpress, Sass, HTML, CSS, Javascript, Jquery, Bootstrap, Responsive
+*/
+
+
+.comment-author.vcard img{
+    width: 35px;
+    height:35px;
+}
+
+
+.one_half{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
