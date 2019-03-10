@@ -29,6 +29,7 @@ __End of Asubtlebeige__
 Features
  > * Title Tag
 * Post Thumbnails
+* Admim Login Background Image
 * Custom Background
 * Text Domain
 * Menu Register
